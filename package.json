@@ -47,6 +47,6 @@
     "@babel/preset-env": "^7.5.3",
     "babel-plugin-add-module-exports": "^1.0.2",
     "babel-loader": "^8.0.6",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.19"
   }
 }
